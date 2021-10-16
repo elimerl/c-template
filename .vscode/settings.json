@@ -1,0 +1,19 @@
+{
+	"files.exclude": {
+		"_deps": true,
+		"*.sln": true,
+		"*.vcxproj": true,
+		"*.vcxproj.filters": true,
+		"cmake_install.cmake": true,
+		"CMakeCache.txt": true,
+		"CMakeFiles": true,
+		"CMakeLists.txt.user": true,
+		"CMakeScripts": true,
+		"compile_commands.json": true,
+		"CTestTestfile.cmake": true,
+		"install_manifest.txt": true,
+		"Makefile": true,
+		"*.dir": true,
+		"x64": true
+	}
+}
